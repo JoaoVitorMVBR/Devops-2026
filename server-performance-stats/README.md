@@ -34,3 +34,5 @@ Follow these steps to set up and execute the monitor:
 Open your terminal and create a new file named `monitor.sh`:
 ```bash
 nano monitor.sh
+
+https://roadmap.sh/projects/server-stats
