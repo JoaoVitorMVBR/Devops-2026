@@ -130,3 +130,5 @@ Projeto construído como parte de um plano de estudos. Documentei a jornada sema
 ## Contato
 
 [LinkedIn](www.linkedin.com/in/joao-vilas-565b422a9) · [GitHub](https://github.com/JoaoVitorMVBR/Devops-2026)
+
+https://roadmap.sh/projects/server-stats
