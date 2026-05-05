@@ -1,7 +1,6 @@
 # devops-2026
 
-Pipeline CI/CD completo com containerização, deploy automatizado na AWS e observabilidade — construído durante jornada Devops.
-
+Repositório voltado para armazenar os projetos de estudo de devops 
 ![CI](https://img.shields.io/github/actions/workflow/status/SEU_USUARIO/devops-2026/ci.yml?label=CI&style=flat-square)
 ![Security Scan](https://img.shields.io/github/actions/workflow/status/SEU_USUARIO/devops-2026/ci.yml?label=security%20scan&style=flat-square)
 ![Docker](https://img.shields.io/badge/docker-ready-blue?style=flat-square)
